@@ -1,3 +1,4 @@
+app : nhttps://email-spam-detection-txcng4zjuuzi4wwgvhk4pc.streamlit.app/
 # Email Spam Detection Using Machine Learning
 
 ## 📌 Project Overview
